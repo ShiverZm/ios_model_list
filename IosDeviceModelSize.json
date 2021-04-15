@@ -1,0 +1,525 @@
+{
+ "IPhone 1,1":{
+   "model":"IPhone 2G",
+   "width":320,
+   "height":480
+ },
+ "IPhone 1,2":{
+   "model":"IPhone 3G",
+   "width":320,
+   "height":480
+ },
+ "IPhone 3,1":{
+   "model":"IPhone 4",
+   "width":320,
+   "height":480
+ },
+ "IPhone 3,2":{
+   "model":"IPhone 4",
+   "width":320,
+   "height":480
+ },
+ "IPhone 3,3":{
+   "model":"IPhone 4",
+   "width":320,
+   "height":480
+ },
+ "IPhone 4,1":{
+   "model":"IPhone 4S",
+   "width":320,
+   "height":480
+ },
+ "IPhone 5,1":{
+   "model":"IPhone 5",
+   "width":320,
+    "height":568
+ },
+ "IPhone 5,2":{
+   "model":"IPhone 5",
+   "width":320,
+   "height":568
+ },
+ "IPhone 5,3":{
+   "model":"IPhone 5c",
+   "width":320,
+   "height":568
+ },
+ "IPhone 5,4":{
+   "model":"IPhone 5c",
+   "width":320,
+   "height":568
+ },
+ "IPhone 6,1":{
+   "model":"IPhone 5s",
+   "width":320,
+   "height":568
+ },
+ "IPhone 6,2":{
+   "model":"IPhone 5s",
+   "width":320,
+   "height":568
+ },
+ "IPhone 7,1":{
+   "model":"IPhone 6 Plus",
+   "width":414,
+   "height":736
+ },
+ "IPhone 8,1":{
+   "model":"IPhone 6s",
+   "width":375,
+   "height":667
+ },
+ "IPhone 8,2":{
+   "model":"IPhone 6s Plus",
+   "width":414,
+   "height":736
+ },
+ "IPhone 8,4":{
+   "model":"IPhone SE",
+   "width":320,
+   "height":568
+ },
+
+ "IPhone 9,1":{
+   "model":"IPhone 7",
+   "width":375,
+   "height":667
+ },
+ "IPhone 9,3":{
+   "model":"IPhone 7",
+   "width":375,
+   "height":667
+ },
+ "IPhone 9,2":{
+   "model":"IPhone 7 Plus",
+   "width":414,
+   "height":736
+ },
+ "IPhone 9,4":{
+   "model":"IPhone 7 Plus",
+   "width":414,
+   "height":736
+ },
+ "IPhone 10,1":{
+   "model":"IPhone 8",
+   "width":375,
+   "height":667
+ },
+ "IPhone 10,4":{
+   "model":"IPhone 8",
+   "width":375,
+   "height":667
+ },
+ "IPhone 10,2":{
+   "model":"IPhone 8 Plus",
+   "width":414,
+   "height":812
+ },
+ "IPhone 10,5":{
+   "model":"IPhone 8 Plus",
+   "width":414,
+   "height":812
+ },
+ "IPhone 10,3":{
+   "model":"IPhone X",
+   "width":375,
+   "height":812
+ },
+"IPhone 10,6":{
+   "model":"IPhone X",
+   "width":375,
+   "height":812
+ },
+"IPhone 11,8":{
+   "model":"IPhone XR",
+   "width":414,
+   "height":896
+ },
+ "IPhone 11,2":{
+   "model":"IPhone XS",
+   "width":375,
+   "height":812
+ },
+ "IPhone 11,4":{
+   "model":"IPhone XS Max",
+   "width":414,
+   "height":896
+ },
+ "IPhone 11,6":{
+   "model":"IPhone XS Max",
+   "width":414,
+   "height":896
+ },
+ "IPhone 12,1":{
+   "model":"IPhone 11",
+   "width":414,
+   "height":896
+ },
+ "IPhone 12,3":{
+   "model":"IPhone 11 Pro",
+   "width":375,
+   "height":812
+ },
+ "IPhone 12,5":{
+   "model":"IPhone 11 Pro Max",
+   "width":414,
+   "height":896
+ },
+ "IPhone 13,1":{
+   "model":"IPhone 12 mini",
+   "width":360,
+   "height":780
+ },
+ "IPhone 13,2":{
+   "model":"IPhone 12 ",
+   "width":390,
+   "height":844
+ },
+ "IPhone 13,3":{
+   "model":"IPhone 12 Pro",
+   "width":390,
+   "height":844
+ },
+ "IPhone 13,4":{
+   "model":"IPhone 12 Pro Max",
+   "width":428,
+   "height":926
+ },
+
+ "iPad 1,1":{
+   "model":"IPad",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 2,1":{
+   "model":"IPad 2",
+   "width":768,
+   "height":1024
+ },
+ "iPad 2,2":{
+   "model":"IPad 2",
+   "width":768,
+   "height":1024
+ },
+ "iPad 2,3":{
+   "model":"IPad 2",
+   "width":768,
+   "height":1024
+ },
+ "iPad 2,4":{
+   "model":"IPad 2",
+   "width":768,
+   "height":1024
+ },
+
+
+ "iPad 3,1":{
+   "model":"IPad 3",
+   "width":768,
+   "height":1024
+ },
+ "iPad 3,2":{
+   "model":"IPad 3",
+   "width":768,
+   "height":1024
+ },
+ "iPad 3,3":{
+   "model":"IPad 3",
+   "width":768,
+   "height":1024
+ },
+ "iPad 3,4":{
+   "model":"IPad 3",
+   "width":768,
+   "height":1024
+ },
+ 
+ "iPad 3,4":{
+   "model":"IPad 4",
+   "width":768,
+   "height":1024
+ },
+ "iPad 3,5":{
+   "model":"IPad 4",
+   "width":768,
+   "height":1024
+ },
+ "iPad 3,6":{
+   "model":"IPad 4",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 6,11":{
+   "model":"IPad 5",
+   "width":768,
+   "height":1024
+ },
+ "iPad 6,12":{
+   "model":"IPad 5",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 7,5":{
+   "model":"IPad 6",
+   "width":768,
+   "height":1024
+ },
+ "iPad 7,6":{
+   "model":"IPad 6",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 7,11":{
+   "model":"IPad 7",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 7,12":{
+   "model":"IPad 7",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 7,11":{
+   "model":"IPad 8",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 6,3":{
+   "model":"iPad Pro 9.7-inch",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 6,4":{
+   "model":"iPad Pro 9.7-inch",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 6,7":{
+   "model":"iPad Pro 9.7-inch",
+   "width":1024,
+   "height":1366
+ },
+
+ "iPad 6,8":{
+   "model":"iPad Pro 12.9-inch",
+   "width":1024,
+   "height":1366
+ },
+
+ "iPad 7,1":{
+   "model":"Pad Pro 12.9-inch",
+   "width":1024,
+   "height":1366
+ },
+ "iPad 7,2":{
+   "model":"iPad Pro 12.9-inch",
+   "width":768,
+   "height":1024
+ },
+ "iPad 7,3":{
+   "model":"Pad Pro 12.9-inch",
+   "width":1024,
+   "height":1366
+ },
+ "iPad 7,4":{
+   "model":"iPad Pro 10.5-inch",
+   "width":834,
+   "height":1112
+ },
+
+ "iPad 8,1":{
+   "model":"iPad Pro 11 inch",
+   "width":1024,
+   "height":1194
+ },
+ "iPad 8,2":{
+   "model":"iPad Pro 11 inch",
+   "width":834,
+   "height":1194
+ },
+ "iPad 8,3":{
+   "model":"iPad Pro 11 inch",
+   "width":834,
+   "height":1194
+ },
+ "iPad 8,4":{
+   "model":"iPad Pro 11 inch",
+   "width":834,
+   "height":1194
+ },
+
+ "iPad 8,9":{
+   "model":"iPad Pro 11 inch 2 ",
+   "width":1024,
+   "height":1194
+ },
+ "iPad 8,10":{
+   "model":"iPad Pro 11 inch 2 ",
+   "width":834,
+   "height":1194
+ },
+
+ "iPad 8,5":{
+   "model":"iPad Pro 12.9 inch 3",
+   "width":1024,
+   "height":1366
+ },
+ "iPad 8,6":{
+   "model":"iPad Pro 12.9 inch 3",
+   "width":1024,
+   "height":1366
+ },
+ "iPad 8,7":{
+   "model":"iPad Pro 12.9 inch 3",
+   "width":1024,
+   "height":1366
+ },
+ "iPad 8,8":{
+   "model":"iPad Pro 12.9 inch 3",
+   "width":834,
+   "height":1366
+ },
+ "iPad 8,11":{
+   "model":" iPad Pro 12.9 inch 4",
+   "width":1024,
+   "height":1366
+ },
+ "iPad 8,12":{
+   "model":" iPad Pro 12.9 inch 4 ",
+   "width":834,
+   "height":1366
+ },
+
+ "iPad 4,1":{
+   "model":"iPad Air",
+   "width":768,
+   "height":1024
+ },
+ "iPad 4,2":{
+   "model":"iPad Air",
+   "width":768,
+   "height":1024
+ },
+ "iPad 4,3":{
+   "model":"iPad Air",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 5,3":{
+   "model":"iPad Air 2",
+   "width":768,
+   "height":1024
+ },
+ "iPad 5,4":{
+   "model":"iPad Air 2",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 11,3":{
+   "model":"iPad Air 3",
+   "width":768,
+   "height":1024
+ },
+ "iPad 11,2":{
+   "model":"iPad Air 3",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 13,1":{
+   "model":"iPad Air 3",
+   "width":768,
+   "height":1024
+ },
+ "iPad 13,2":{
+   "model":"iPad Air 4",
+   "width":768,
+   "height":1024
+ },
+
+
+ "iPad 2,5":{
+   "model":"iPad mini",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 2,6":{
+   "model":"iPad mini",
+   "width":768,
+   "height":1024
+ },
+ "iPad 2,7":{
+   "model":"iPad mini",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 4,4":{
+   "model":"iPad mini 2",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 4,5":{
+   "model":"iPad mini 2",
+   "width":768,
+   "height":1024
+ },
+ "iPad 4,6":{
+   "model":"iPad mini 2",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 4,7":{
+   "model":"iPad mini 3",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 4,8":{
+   "model":"iPad mini 3",
+   "width":768,
+   "height":1024
+ },
+ "iPad 4,9":{
+   "model":"iPad mini 3",
+   "width":768,
+   "height":1024
+ },
+
+
+ "iPad 5,1":{
+   "model":"iPad mini 4",
+   "width":768,
+   "height":1024
+ },
+ "iPad 5,2":{
+   "model":"iPad mini 4",
+   "width":768,
+   "height":1024
+ },
+
+ "iPad 11,1":{
+   "model":"iPad mini 5",
+   "width":768,
+   "height":1024
+ },
+ "iPad 11,2":{
+   "model":"iPad mini 5",
+   "width":768,
+   "height":1024
+ }
+}
